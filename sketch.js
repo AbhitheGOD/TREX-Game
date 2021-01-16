@@ -16,7 +16,7 @@ var score;
 function preload(){
   trex_running = loadAnimation("trex1.png","trex2.png","trex3.png");
   trex_collided = loadAnimation("trex_collided.png");
-gameoverImage=loadImage("gameOver.png")
+gameoverImage=loadImage("GAMEOVER.png")
   restartImage=loadImage("restart.png")
   groundImage = loadImage("ground2.png");
   cloudImage= loadImage("cloud.png"); 
